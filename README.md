@@ -1,4 +1,4 @@
-## Hi there and welcome to my GitHub profile 👋
+## Hi, welcome to my GitHub profile 👋
 ### feel free to look around
 
 - 📫 Contact me at: stoughtonrich@gmail.com
