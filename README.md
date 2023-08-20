@@ -1,7 +1,7 @@
 ## Hi, welcome to my GitHub profile 👋
 ### feel free to look around
 
-- 📫 Contact me at: stoughtonrich@gmail.com
+- 📫 Contact me at: daniele.gargiulo.1996@gmail.com
 
 <!--
 **sglmnaz/Sglmnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
